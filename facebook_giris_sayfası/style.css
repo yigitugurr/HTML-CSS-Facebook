@@ -1,0 +1,135 @@
+body{
+    background-color: rgb(236, 236, 236);
+}
+#facebook{
+    color: #1877F2;
+    margin-top: 150px;
+    margin-left: 270px;
+    font-size: 60px;
+    font-family: "Roboto", sans-serif;
+}
+
+#alt_metin{
+    margin-top: -50px;
+    margin-left: 270px;
+    position: absolute;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#alt_metin2{
+    margin-top: -20px;
+    margin-left: 270px;
+    position: absolute;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#alt_metin3{
+    margin-top: 10px;
+    margin-left: 270px;
+    position: absolute;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    box-shadow:2px 2px 5px 1px lightslategray;
+    border-radius: 10px;
+    position: absolute;
+    margin: auto;
+    margin-left: 60%;
+    margin-top: -230px;
+}
+#kullanici_adi{
+    width: 350px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+#sifre{
+    width: 350px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 100px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+#giris_yap{
+    width: 360px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 190px;
+    border-style: none;
+    border-radius: 5px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: #1877F2;
+    color: white;
+}
+
+#sifre_degistir{
+    text-align: center;
+    margin: auto;
+    margin-left: 145px;
+    margin-top: 260px;
+    position: absolute;
+    color: #1877F2;
+}
+
+#cubuk{
+    width: 370px;
+    height: 1px;
+    position: absolute;
+    background-color: gray;
+    margin: auto;
+    margin-left: 15px;
+    margin-top: 300px;
+}
+
+#yeni_hesap{
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 330px;
+    border-style: none;
+    border-radius: 6px;
+    background-color: #42b72a;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    
+}
+
+#div_alt_metin{
+    margin: auto;
+    position:absolute;
+    margin-top: 430px;
+    margin-left: 70px;
+    font-size: 14px;
+
+}
+::placeholder{
+    font-family: Arial, Helvetica, sans-serif
+}
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
